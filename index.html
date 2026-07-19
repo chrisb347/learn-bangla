@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Learn Bangla — Daily Words &amp; Phrases</title>
+<style>
+  :root {
+    --bg: #fdfcfa;
+    --card: #ffffff;
+    --ink: #1b1a17;
+    --muted: #6b6862;
+    --accent: #0f6e4f;
+    --line: #e7e3dc;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16151a;
+      --card: #1e1d24;
+      --ink: #f0eee9;
+      --muted: #9d99a3;
+      --accent: #6fd3a8;
+      --line: #302e38;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 42rem; margin: 0 auto; }
+  header { margin-bottom: 2rem; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
+  .sub { color: var(--muted); font-size: .9rem; }
+  .search {
+    width: 100%; margin-top: 1.25rem; padding: .6rem .8rem;
+    font: inherit; color: var(--ink);
+    background: var(--card);
+    border: 1px solid var(--line); border-radius: .5rem;
+  }
+  .search:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .entry {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: .75rem;
+    padding: 1rem 1.15rem;
+    margin-bottom: .85rem;
+  }
+  .bangla {
+    font-size: 1.75rem; line-height: 1.35;
+    /* Bengali needs an explicit stack; system-ui often lacks the glyphs. */
+    font-family: "Noto Sans Bengali", "Nirmala UI", "Vrinda", "Shonar Bangla", sans-serif;
+  }
+  .phonetic { color: var(--accent); font-style: italic; font-size: .95rem; }
+  .english { font-weight: 600; margin-top: .15rem; }
+  .example {
+    margin-top: .7rem; padding-top: .7rem;
+    border-top: 1px dashed var(--line);
+    font-size: .93rem; color: var(--muted);
+  }
+  .date { float: right; font-size: .75rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .status { color: var(--muted); padding: 2rem 0; text-align: center; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Learn Bangla</h1>
+    <div class="sub">A word and a phrase each day, from the daily briefing.</div>
+    <input class="search" id="q" type="search" placeholder="Search Bangla, phonetic, or English…" aria-label="Search entries">
+  </header>
+  <div id="out"><p class="status">Loading…</p></div>
+</main>
+<script>
+const out = document.getElementById("out");
+let entries = [];
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function fmtDate(iso) {
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleDateString(undefined,
+    { year: "numeric", month: "short", day: "numeric" });
+}
+
+function render(list) {
+  if (!list.length) {
+    out.innerHTML = '<p class="status">No entries match.</p>';
+    return;
+  }
+  out.innerHTML = list.map(e => `
+    <article class="entry">
+      <span class="date">${esc(fmtDate(e.date_sent))}</span>
+      <div class="bangla">${esc(e.bangla)}</div>
+      <div class="phonetic">${esc(e.phonetic)}</div>
+      <div class="english">${esc(e.english)}</div>
+      ${e.example_phrase ? `<div class="example">${esc(e.example_phrase)}</div>` : ""}
+    </article>`).join("");
+}
+
+fetch("bangla.json", { cache: "no-cache" })
+  .then(r => r.ok ? r.json() : Promise.reject(new Error(r.status)))
+  .then(data => {
+    // Newest first; the archive is appended to chronologically.
+    entries = data.slice().reverse();
+    render(entries);
+  })
+  .catch(() => {
+    out.innerHTML = '<p class="status">Could not load bangla.json.</p>';
+  });
+
+document.getElementById("q").addEventListener("input", ev => {
+  const q = ev.target.value.trim().toLowerCase();
+  render(!q ? entries : entries.filter(e =>
+    [e.bangla, e.phonetic, e.english, e.example_phrase]
+      .some(v => String(v ?? "").toLowerCase().includes(q))));
+});
+</script>
+</body>
+</html>
