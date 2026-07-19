@@ -1,5 +1,33 @@
 [
   {
+    "bangla": "আশা",
+    "phonetic": "AH-sha",
+    "english": "Hope",
+    "example_phrase": "আমার আশা আছে। — I have hope.",
+    "date_sent": "2026-07-04T12:51:00"
+  },
+  {
+    "bangla": "আপনি কেমন আছেন?",
+    "phonetic": "AP-ni KE-mon AH-chen",
+    "english": "How are you? (polite)",
+    "example_phrase": "আপনি কেমন আছেন? — How are you? (polite)",
+    "date_sent": "2026-07-04T12:51:01"
+  },
+  {
+    "bangla": "রাত",
+    "phonetic": "RAAT",
+    "english": "Night",
+    "example_phrase": "আজ রাতে বৃষ্টি হবে। — It will rain tonight.",
+    "date_sent": "2026-07-06T12:51:00"
+  },
+  {
+    "bangla": "সকাল",
+    "phonetic": "SHO-kal",
+    "english": "Morning",
+    "example_phrase": "শুভ সকাল। — Good morning.",
+    "date_sent": "2026-07-19T11:30:00"
+  },
+  {
     "bangla": "সুন্দর",
     "phonetic": "SHUN-dor",
     "english": "Beautiful",
