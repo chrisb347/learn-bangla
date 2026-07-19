@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "bangla": "সুন্দর",
+    "phonetic": "SHUN-dor",
+    "english": "Beautiful",
+    "example_phrase": "এটি একটি সুন্দর দিন। — This is a beautiful day.",
+    "date_sent": "2026-07-19T15:40:43.319373"
+  },
+  {
+    "bangla": "আমি খুব ভালো আছি",
+    "phonetic": "AH-mee khoo BHAH-lo AH-chee",
+    "english": "I am very well",
+    "example_phrase": "আমি খুব ভালো আছি। — I am very well.",
+    "date_sent": "2026-07-19T15:40:43.319373"
+  }
+]
