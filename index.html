@@ -55,6 +55,19 @@
     font-family: "Noto Sans Bengali", "Nirmala UI", "Vrinda", "Shonar Bangla", sans-serif;
   }
   .phonetic { color: var(--accent); font-style: italic; font-size: .95rem; }
+  .say {
+    appearance: none; cursor: pointer;
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 2rem; height: 2rem; padding: 0; margin-left: .5rem;
+    vertical-align: middle;
+    color: var(--accent); background: transparent;
+    border: 1px solid var(--line); border-radius: 50%;
+    font-size: .95rem; line-height: 1;
+  }
+  .say:hover { background: var(--accent); color: var(--card); border-color: var(--accent); }
+  .say:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .say[aria-pressed="true"] { background: var(--accent); color: var(--card); }
+  .say.mini { width: 1.6rem; height: 1.6rem; font-size: .75rem; margin-left: .35rem; }
   .english { font-weight: 600; margin-top: .15rem; }
   .example {
     margin-top: .7rem; padding-top: .7rem;
@@ -87,6 +100,35 @@ function fmtDate(iso) {
     { year: "numeric", month: "short", day: "numeric" });
 }
 
+// Entries predating the audio pipeline have no clip; render nothing rather than
+// a button that fails.
+function playBtn(src, label, extra) {
+  return src
+    ? `<button class="say${extra}" data-src="${esc(src)}" aria-label="${esc(label)}">▶</button>`
+    : "";
+}
+
+let current = null;
+function play(btn) {
+  if (current) {
+    current.audio.pause();
+    current.btn.setAttribute("aria-pressed", "false");
+    const same = current.btn === btn;
+    current = null;
+    if (same) return; // second click stops
+  }
+  const audio = new Audio(btn.dataset.src);
+  btn.setAttribute("aria-pressed", "true");
+  current = { audio, btn };
+  const clear = () => {
+    btn.setAttribute("aria-pressed", "false");
+    if (current && current.btn === btn) current = null;
+  };
+  audio.addEventListener("ended", clear);
+  audio.addEventListener("error", clear);
+  audio.play().catch(clear);
+}
+
 function render(list) {
   if (!list.length) {
     out.innerHTML = '<p class="status">No entries match.</p>';
@@ -95,10 +137,11 @@ function render(list) {
   out.innerHTML = list.map(e => `
     <article class="entry">
       <span class="date">${esc(fmtDate(e.date_sent))}</span>
-      <div class="bangla">${esc(e.bangla)}</div>
+      <div class="bangla">${esc(e.bangla)}${playBtn(e.audio, `Play pronunciation of ${e.english}`, "")}</div>
       <div class="phonetic">${esc(e.phonetic)}</div>
       <div class="english">${esc(e.english)}</div>
-      ${e.example_phrase ? `<div class="example">${esc(e.example_phrase)}</div>` : ""}
+      ${e.example_phrase ? `<div class="example">${esc(e.example_phrase)}${
+        playBtn(e.example_audio, "Play example sentence", " mini")}</div>` : ""}
     </article>`).join("");
 }
 
@@ -112,6 +155,12 @@ fetch("bangla.json", { cache: "no-cache" })
   .catch(() => {
     out.innerHTML = '<p class="status">Could not load bangla.json.</p>';
   });
+
+// Delegated so it survives re-renders from search.
+out.addEventListener("click", ev => {
+  const btn = ev.target.closest(".say");
+  if (btn) play(btn);
+});
 
 document.getElementById("q").addEventListener("input", ev => {
   const q = ev.target.value.trim().toLowerCase();

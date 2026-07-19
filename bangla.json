@@ -4,41 +4,53 @@
     "phonetic": "AH-sha",
     "english": "Hope",
     "example_phrase": "আমার আশা আছে। — I have hope.",
-    "date_sent": "2026-07-04T12:51:00"
+    "date_sent": "2026-07-04T12:51:00",
+    "audio": "audio/6c77f34b4195.mp3",
+    "example_audio": "audio/df2ebeec557e.mp3"
   },
   {
     "bangla": "আপনি কেমন আছেন?",
     "phonetic": "AP-ni KE-mon AH-chen",
     "english": "How are you? (polite)",
     "example_phrase": "আপনি কেমন আছেন? — How are you? (polite)",
-    "date_sent": "2026-07-04T12:51:01"
+    "date_sent": "2026-07-04T12:51:01",
+    "audio": "audio/c8f468405d30.mp3",
+    "example_audio": "audio/c8f468405d30.mp3"
   },
   {
     "bangla": "রাত",
     "phonetic": "RAAT",
     "english": "Night",
     "example_phrase": "আজ রাতে বৃষ্টি হবে। — It will rain tonight.",
-    "date_sent": "2026-07-06T12:51:00"
+    "date_sent": "2026-07-06T12:51:00",
+    "audio": "audio/cae29262e821.mp3",
+    "example_audio": "audio/f8c2f0da8ce7.mp3"
   },
   {
     "bangla": "সকাল",
     "phonetic": "SHO-kal",
     "english": "Morning",
     "example_phrase": "শুভ সকাল। — Good morning.",
-    "date_sent": "2026-07-19T11:30:00"
+    "date_sent": "2026-07-19T11:30:00",
+    "audio": "audio/1be43389e5cb.mp3",
+    "example_audio": "audio/0ef2065cc33c.mp3"
   },
   {
     "bangla": "সুন্দর",
     "phonetic": "SHUN-dor",
     "english": "Beautiful",
     "example_phrase": "এটি একটি সুন্দর দিন। — This is a beautiful day.",
-    "date_sent": "2026-07-19T15:40:43.319373"
+    "date_sent": "2026-07-19T15:40:43.319373",
+    "audio": "audio/452e9e2fcfcd.mp3",
+    "example_audio": "audio/c4255604eba3.mp3"
   },
   {
     "bangla": "আমি খুব ভালো আছি",
     "phonetic": "AH-mee khoo BHAH-lo AH-chee",
     "english": "I am very well",
     "example_phrase": "আমি খুব ভালো আছি। — I am very well.",
-    "date_sent": "2026-07-19T15:40:43.319373"
+    "date_sent": "2026-07-19T15:40:43.319373",
+    "audio": "audio/581d1d8cede6.mp3",
+    "example_audio": "audio/19c22606900b.mp3"
   }
 ]
