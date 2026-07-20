@@ -52,5 +52,23 @@
     "date_sent": "2026-07-19T15:40:43.319373",
     "audio": "audio/581d1d8cede6.mp3",
     "example_audio": "audio/19c22606900b.mp3"
+  },
+  {
+    "bangla": "ভালো",
+    "phonetic": "bhá-lo",
+    "english": "Good",
+    "example_phrase": "আজ খুব ভালো দিন — Today is a very good day",
+    "date_sent": "2026-07-20T13:00:17.124959",
+    "audio": "audio/5edaa204feba.mp3",
+    "example_audio": "audio/49aa65403787.mp3"
+  },
+  {
+    "bangla": "আপনার দিন কেমন ছিল?",
+    "phonetic": "Á-pna-nar din khe-mon chil?",
+    "english": "How was your day? (polite)",
+    "example_phrase": "আপনার দিন কেমন ছিল? আমার খুব ভালো ছিল — How was your day? Mine was very good",
+    "date_sent": "2026-07-20T13:00:17.124959",
+    "audio": "audio/ccc468c50be8.mp3",
+    "example_audio": "audio/86afaab99887.mp3"
   }
 ]
