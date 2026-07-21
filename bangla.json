@@ -70,5 +70,23 @@
     "date_sent": "2026-07-20T13:00:17.124959",
     "audio": "audio/ccc468c50be8.mp3",
     "example_audio": "audio/86afaab99887.mp3"
+  },
+  {
+    "bangla": "ভালোবাসা",
+    "phonetic": "bhalo-ba-sha",
+    "english": "Love",
+    "example_phrase": "আমি আমার পরিবারকে ভালোবাসি — I love my family",
+    "date_sent": "2026-07-21T12:19:51.266367",
+    "audio": "audio/b54bda93a73d.mp3",
+    "example_audio": "audio/d9376348e3d8.mp3"
+  },
+  {
+    "bangla": "আপনার পরিবার কেমন আছে?",
+    "phonetic": "Ap-nar po-ri-bar ke-mon a-che?",
+    "english": "How is your family?",
+    "example_phrase": "আপনার পরিবার কেমন আছে? আমার সবাই ভালো আছি — How is your family? My family is doing well",
+    "date_sent": "2026-07-21T12:19:51.266367",
+    "audio": "audio/4218922fcbfa.mp3",
+    "example_audio": "audio/f53a2a341ea7.mp3"
   }
 ]
