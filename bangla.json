@@ -88,5 +88,23 @@
     "date_sent": "2026-07-21T12:19:51.266367",
     "audio": "audio/4218922fcbfa.mp3",
     "example_audio": "audio/f53a2a341ea7.mp3"
+  },
+  {
+    "bangla": "আনন্দ",
+    "phonetic": "uh-NON-duh",
+    "english": "Joy, happiness, delight",
+    "example_phrase": "তার মুখে আনন্দ ছিল। — There was joy on his face.",
+    "date_sent": "2026-07-22T12:21:59.093282",
+    "audio": "audio/f7ef05caca5f.mp3",
+    "example_audio": "audio/ecbdc2f4934c.mp3"
+  },
+  {
+    "bangla": "আপনার সাথে থাকতে পেরে খুশি",
+    "phonetic": "uh-PAH-nahr SAH-they THAHK-tey PEH-rey KHOO-shee",
+    "english": "I am happy to be with you (formal)",
+    "example_phrase": "আপনার সাথে থাকতে পেরে খুশি। — I am happy to be with you.",
+    "date_sent": "2026-07-22T12:21:59.093282",
+    "audio": "audio/abbacce1afb9.mp3",
+    "example_audio": "audio/648587ff40ac.mp3"
   }
 ]
