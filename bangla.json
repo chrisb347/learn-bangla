@@ -106,5 +106,23 @@
     "date_sent": "2026-07-22T12:21:59.093282",
     "audio": "audio/abbacce1afb9.mp3",
     "example_audio": "audio/648587ff40ac.mp3"
+  },
+  {
+    "bangla": "দোকান",
+    "phonetic": "dok-ahn",
+    "english": "Store/Shop",
+    "example_phrase": "আমি দোকানে যাই। — I go to the store.",
+    "date_sent": "2026-07-23T12:18:54.540763",
+    "audio": "audio/a1407a0f808e.mp3",
+    "example_audio": "audio/0f6bfeb2e823.mp3"
+  },
+  {
+    "bangla": "আপনি কোথায় থাকেন?",
+    "phonetic": "Ah-pni ko-tah-y thah-ken?",
+    "english": "Where do you live? (formal)",
+    "example_phrase": "আপনি কোথায় থাকেন? — Where do you live?",
+    "date_sent": "2026-07-23T12:18:54.540763",
+    "audio": "audio/54241e50db1d.mp3",
+    "example_audio": "audio/54241e50db1d.mp3"
   }
 ]
