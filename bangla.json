@@ -124,5 +124,23 @@
     "date_sent": "2026-07-23T12:18:54.540763",
     "audio": "audio/54241e50db1d.mp3",
     "example_audio": "audio/54241e50db1d.mp3"
+  },
+  {
+    "bangla": "খুশি",
+    "phonetic": "khu-shee",
+    "english": "Happy, cheerful",
+    "example_phrase": "আমি আজ অনেক খুশি — I am very happy today",
+    "date_sent": "2026-07-24T12:12:48.802846",
+    "audio": "audio/0be196e674f8.mp3",
+    "example_audio": "audio/832177220c7c.mp3"
+  },
+  {
+    "bangla": "আমি কীভাবে আপনাকে সাহায্য করতে পারি?",
+    "phonetic": "aa-mee kee-bha-bay aa-pna-kay saa-hay-jya kor-tay paa-ree",
+    "english": "How can I help you?",
+    "example_phrase": "আমি কীভাবে আপনাকে সাহায্য করতে পারি? — How can I help you?",
+    "date_sent": "2026-07-24T12:12:48.802846",
+    "audio": "audio/999405c026b6.mp3",
+    "example_audio": "audio/999405c026b6.mp3"
   }
 ]
