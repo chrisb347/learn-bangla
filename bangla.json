@@ -142,5 +142,23 @@
     "date_sent": "2026-07-24T12:12:48.802846",
     "audio": "audio/999405c026b6.mp3",
     "example_audio": "audio/999405c026b6.mp3"
+  },
+  {
+    "bangla": "রাস্তা",
+    "phonetic": "RAH-stah",
+    "english": "Road/Street",
+    "example_phrase": "আমি রাস্তায় হাঁটছি। — I am walking on the street.",
+    "date_sent": "2026-07-25T11:56:47.924431",
+    "audio": "audio/c5e50e955914.mp3",
+    "example_audio": "audio/700c1c5f1717.mp3"
+  },
+  {
+    "bangla": "আপনি কোথায় যাচ্ছেন?",
+    "phonetic": "Ah-puh-NEE KO-thah yah-CHEN?",
+    "english": "Where are you going? (polite/formal)",
+    "example_phrase": "আমি বাজারে যাচ্ছি। — I am going to the market.",
+    "date_sent": "2026-07-25T11:56:47.924431",
+    "audio": "audio/2897907ae597.mp3",
+    "example_audio": "audio/fe03f9fe616e.mp3"
   }
 ]
