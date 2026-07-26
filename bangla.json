@@ -160,5 +160,23 @@
     "date_sent": "2026-07-25T11:56:47.924431",
     "audio": "audio/2897907ae597.mp3",
     "example_audio": "audio/fe03f9fe616e.mp3"
+  },
+  {
+    "bangla": "বাজার",
+    "phonetic": "bah-jar",
+    "english": "Market (marketplace or bazaar)",
+    "example_phrase": "আমি সকালে বাজারে গিয়েছিলাম। — I went to the market this morning.",
+    "date_sent": "2026-07-26T11:55:04.305183",
+    "audio": "audio/e450a13c6400.mp3",
+    "example_audio": "audio/5ea4e3a5459e.mp3"
+  },
+  {
+    "bangla": "আপনার খবর কেমন?",
+    "phonetic": "Ah-poh-nar khoh-bor kay-mon?",
+    "english": "How have you been? / What's your news? (formal/polite)",
+    "example_phrase": "আপনার খবর কেমন? দীর্ঘদিন দেখা হয়নি। — How have you been? It's been a long time since we've seen each other.",
+    "date_sent": "2026-07-26T11:55:04.305183",
+    "audio": "audio/a26a80d41c3b.mp3",
+    "example_audio": "audio/3fed21c1ae09.mp3"
   }
 ]
