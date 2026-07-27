@@ -178,5 +178,23 @@
     "date_sent": "2026-07-26T11:55:04.305183",
     "audio": "audio/a26a80d41c3b.mp3",
     "example_audio": "audio/3fed21c1ae09.mp3"
+  },
+  {
+    "bangla": "আগামীকাল",
+    "phonetic": "aw-GAH-mee-kahl",
+    "english": "Tomorrow",
+    "example_phrase": "আগামীকাল আমরা বাজারে যাব। — Tomorrow we will go to the market.",
+    "date_sent": "2026-07-27T13:32:37.535366",
+    "audio": "audio/5bb62674ab7c.mp3",
+    "example_audio": "audio/21e94526a1ca.mp3"
+  },
+  {
+    "bangla": "আমি আপনার সাহায্য চাই।",
+    "phonetic": "AH-mee ah-PAW-nar SAH-hah-zzo CHAI",
+    "english": "I need your help.",
+    "example_phrase": "আমি আপনার সাহায্য চাই। আপনি কি সাহায্য করতে পারবেন? — I need your help. Can you help me?",
+    "date_sent": "2026-07-27T13:32:37.535366",
+    "audio": "audio/1cd1c7e8606c.mp3",
+    "example_audio": "audio/8cb63b6f620f.mp3"
   }
 ]
