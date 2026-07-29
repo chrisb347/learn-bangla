@@ -196,5 +196,23 @@
     "date_sent": "2026-07-27T13:32:37.535366",
     "audio": "audio/1cd1c7e8606c.mp3",
     "example_audio": "audio/8cb63b6f620f.mp3"
+  },
+  {
+    "bangla": "শিক্ষা",
+    "phonetic": "SHIK-sha",
+    "english": "Education",
+    "example_phrase": "শিক্ষা খুব গুরুত্বপূর্ণ। — Education is very important.",
+    "date_sent": "2026-07-29T12:56:01.048841",
+    "audio": "audio/a3b04ef59e31.mp3",
+    "example_audio": "audio/69d7ce55e999.mp3"
+  },
+  {
+    "bangla": "আমি আপনাকে ভালোবাসি",
+    "phonetic": "AH-mee AHP-nah-kay BHAH-lo-bah-shee",
+    "english": "I love you (formal/romantic)",
+    "example_phrase": "আমি আপনাকে ভালোবাসি এবং সবসময় তোমার সাথে থাকতে চাই। — I love you and I always want to be with you.",
+    "date_sent": "2026-07-29T12:56:01.048841",
+    "audio": "audio/6b5132aa17ae.mp3",
+    "example_audio": "audio/a5080337b52d.mp3"
   }
 ]
