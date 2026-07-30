@@ -214,5 +214,14 @@
     "date_sent": "2026-07-29T12:56:01.048841",
     "audio": "audio/6b5132aa17ae.mp3",
     "example_audio": "audio/a5080337b52d.mp3"
+  },
+  {
+    "bangla": "সুস্থ",
+    "phonetic": "shoo-STHUH",
+    "english": "Healthy; well",
+    "example_phrase": "আমি সুস্থ আছি। — I am well / I am healthy.",
+    "date_sent": "2026-07-30T12:23:33.701335",
+    "audio": "audio/5dde29801066.mp3",
+    "example_audio": "audio/81eba5e48abe.mp3"
   }
 ]
