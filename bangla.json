@@ -223,5 +223,14 @@
     "date_sent": "2026-07-30T12:23:33.701335",
     "audio": "audio/5dde29801066.mp3",
     "example_audio": "audio/81eba5e48abe.mp3"
+  },
+  {
+    "bangla": "শক্তি",
+    "phonetic": "SHAK-tee",
+    "english": "Power, strength, or energy",
+    "example_phrase": "আমার অনেক শক্তি আছে। — I have a lot of strength.",
+    "date_sent": "2026-07-31T12:50:53.459626",
+    "audio": "audio/c9330dcd0da7.mp3",
+    "example_audio": "audio/34b71d9d92ba.mp3"
   }
 ]
