@@ -232,5 +232,23 @@
     "date_sent": "2026-07-31T12:50:53.459626",
     "audio": "audio/c9330dcd0da7.mp3",
     "example_audio": "audio/34b71d9d92ba.mp3"
+  },
+  {
+    "bangla": "সুখ",
+    "phonetic": "shoo-kh",
+    "english": "Happiness, joy, comfort, well-being",
+    "example_phrase": "আমরা পরিবারের সাথে সুখে আছি। — We are happy with our family.",
+    "date_sent": "2026-08-01T11:56:04.955322",
+    "audio": "audio/229a18c01321.mp3",
+    "example_audio": "audio/9c58f6322c3f.mp3"
+  },
+  {
+    "bangla": "আপনার কল্যাণ কামনা করি",
+    "phonetic": "ah-par-nar kol-yan kam-na ko-ri",
+    "english": "I wish you well / I hope all is well with you (formal, respectful expression)",
+    "example_phrase": "আপনার পরিবারের সকলের কল্যাণ কামনা করি। — I wish well-being for all members of your family.",
+    "date_sent": "2026-08-01T11:56:04.955322",
+    "audio": "audio/47eafc4bbe8b.mp3",
+    "example_audio": "audio/aea279718c8d.mp3"
   }
 ]
