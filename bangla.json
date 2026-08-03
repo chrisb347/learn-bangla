@@ -268,5 +268,23 @@
     "date_sent": "2026-08-02T11:54:32.405600",
     "audio": "audio/7f3609f11c39.mp3",
     "example_audio": "audio/4c64b8932fd0.mp3"
+  },
+  {
+    "bangla": "পরিবার",
+    "phonetic": "po-ri-bar",
+    "english": "Family",
+    "example_phrase": "আমার পরিবার খুব বড়। — My family is very large.",
+    "date_sent": "2026-08-03T13:33:04.437030",
+    "audio": "audio/f4261445c34e.mp3",
+    "example_audio": "audio/479ae606e746.mp3"
+  },
+  {
+    "bangla": "আপনি কীভাবে আছেন?",
+    "phonetic": "ap-ni ki-bhav-be a-chen",
+    "english": "How are you? (formal/polite)",
+    "example_phrase": "আপনি কীভাবে আছেন? আমি ভালো আছি। — How are you? I am well.",
+    "date_sent": "2026-08-03T13:33:04.437030",
+    "audio": "audio/00422315ddf9.mp3",
+    "example_audio": "audio/290bb5455118.mp3"
   }
 ]
