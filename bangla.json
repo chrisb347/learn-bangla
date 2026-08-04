@@ -286,5 +286,23 @@
     "date_sent": "2026-08-03T13:33:04.437030",
     "audio": "audio/00422315ddf9.mp3",
     "example_audio": "audio/290bb5455118.mp3"
+  },
+  {
+    "bangla": "নতুন",
+    "phonetic": "no-toon",
+    "english": "New",
+    "example_phrase": "এটি একটি নতুন বই। — This is a new book.",
+    "date_sent": "2026-08-04T12:53:18.890018",
+    "audio": "audio/701f00f344b7.mp3",
+    "example_audio": "audio/280ba6deb9c8.mp3"
+  },
+  {
+    "bangla": "আজকের আবহাওয়া খুবই সুন্দর।",
+    "phonetic": "Aaj-ker ob-ho-wa khu-bee sun-dar",
+    "english": "The weather today is very beautiful.",
+    "example_phrase": "আজকের আবহাওয়া খুবই সুন্দর, তাই না? — The weather today is very beautiful, isn't it?",
+    "date_sent": "2026-08-04T12:53:18.890018",
+    "audio": "audio/db20106842af.mp3",
+    "example_audio": "audio/0252c90a611c.mp3"
   }
 ]
