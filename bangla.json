@@ -304,5 +304,22 @@
     "date_sent": "2026-08-04T12:53:18.890018",
     "audio": "audio/db20106842af.mp3",
     "example_audio": "audio/0252c90a611c.mp3"
+  },
+  {
+    "bangla": "আপস",
+    "phonetic": "ah-posh",
+    "english": "compromise, settlement",
+    "example_phrase": "আমরা একটি আপস খুঁজে পেয়েছি। — We found a compromise.",
+    "date_sent": "2026-08-05T12:47:42.384552",
+    "audio": "audio/e1ef17a85d80.mp3",
+    "example_audio": "audio/b25c44f94b81.mp3"
+  },
+  {
+    "bangla": "আমি তোমার সাথে সম্মত।",
+    "phonetic": "ah-mee to-mar sha-the shom-mot",
+    "english": "I agree with you.",
+    "example_phrase": "আমি তোমার সাথে সম্মত, এটি একটি ভাল ধারণা। — I agree with you; it's a good idea.",
+    "date_sent": "2026-08-05T12:47:42.384552",
+    "audio": "audio/611fc960868b.mp3"
   }
 ]
