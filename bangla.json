@@ -320,6 +320,25 @@
     "english": "I agree with you.",
     "example_phrase": "আমি তোমার সাথে সম্মত, এটি একটি ভাল ধারণা। — I agree with you; it's a good idea.",
     "date_sent": "2026-08-05T12:47:42.384552",
-    "audio": "audio/611fc960868b.mp3"
+    "audio": "audio/611fc960868b.mp3",
+    "example_audio": "audio/07e8d8d063ec.mp3"
+  },
+  {
+    "bangla": "দক্ষতা",
+    "phonetic": "dok-shota",
+    "english": "Skill, ability, or competence",
+    "example_phrase": "তার পাঁচটা অসাধারণ দক্ষতা আছে। — She/He has five extraordinary skills.",
+    "date_sent": "2026-08-06T12:50:43.669316",
+    "audio": "audio/fa0454e822ee.mp3",
+    "example_audio": "audio/6dd6811d7752.mp3"
+  },
+  {
+    "bangla": "আপনি এটা কিভাবে শিখলেন?",
+    "phonetic": "ah-poh-nee eh-tah kee-bha-bhe shee-kh-len",
+    "english": "How did you learn this? / How did you learn that?",
+    "example_phrase": "আপনি এটা কিভাবে শিখলেন? আমি স্কুলে শিখেছি। — How did you learn this? I learned it in school.",
+    "date_sent": "2026-08-06T12:50:43.669316",
+    "audio": "audio/09e6466418ba.mp3",
+    "example_audio": "audio/550f0ff2537d.mp3"
   }
 ]
