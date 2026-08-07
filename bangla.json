@@ -340,5 +340,23 @@
     "date_sent": "2026-08-06T12:50:43.669316",
     "audio": "audio/09e6466418ba.mp3",
     "example_audio": "audio/550f0ff2537d.mp3"
+  },
+  {
+    "bangla": "সুবিধা",
+    "phonetic": "su-bi-dha",
+    "english": "Convenience, facility, or advantage",
+    "example_phrase": "এই দোকানের বড় সুবিধা আছে কারণ এটি ২৪ ঘণ্টা খোলা থাকে। — This shop has a great advantage because it stays open 24 hours.",
+    "date_sent": "2026-08-07T11:43:00.024134",
+    "audio": "audio/c0ee626e7273.mp3",
+    "example_audio": "audio/8cb4b35082cd.mp3"
+  },
+  {
+    "bangla": "আপনি কী খাবেন?",
+    "phonetic": "a-po-ni kee kha-ben",
+    "english": "What will you eat? (polite form)",
+    "example_phrase": "রেস্তোরাঁয় ওয়েটার: আপনি কী খাবেন? — The waiter at the restaurant asks: What will you eat?",
+    "date_sent": "2026-08-07T11:43:00.024134",
+    "audio": "audio/aac3d698add1.mp3",
+    "example_audio": "audio/7bede7e585c6.mp3"
   }
 ]
