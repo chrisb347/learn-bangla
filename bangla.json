@@ -358,5 +358,23 @@
     "date_sent": "2026-08-07T11:43:00.024134",
     "audio": "audio/aac3d698add1.mp3",
     "example_audio": "audio/7bede7e585c6.mp3"
+  },
+  {
+    "bangla": "আগামী",
+    "phonetic": "AH-gah-mee",
+    "english": "Next, upcoming, or future",
+    "example_phrase": "আগামী সপ্তাহে আমি ছুটি নেব। — I will take leave next week.",
+    "date_sent": "2026-08-09T11:20:45.232785",
+    "audio": "audio/0cbbb5942947.mp3",
+    "example_audio": "audio/58fb1c6be95c.mp3"
+  },
+  {
+    "bangla": "আপনি কখন ফিরে আসবেন?",
+    "phonetic": "AH-poh-nee KO-khon FIH-ray AH-sho-ben?",
+    "english": "When will you come back? (polite/formal)",
+    "example_phrase": "আপনি কখন ফিরে আসবেন? আমি আপনার অপেক্ষা করছি। — When will you come back? I am waiting for you.",
+    "date_sent": "2026-08-09T11:20:45.232785",
+    "audio": "audio/f1cd0f656ff0.mp3",
+    "example_audio": "audio/b28f59001d9d.mp3"
   }
 ]
