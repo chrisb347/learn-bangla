@@ -376,5 +376,23 @@
     "date_sent": "2026-08-09T11:20:45.232785",
     "audio": "audio/f1cd0f656ff0.mp3",
     "example_audio": "audio/b28f59001d9d.mp3"
+  },
+  {
+    "bangla": "স্বাস্থ্য",
+    "phonetic": "shastho",
+    "english": "Health; wellness",
+    "example_phrase": "আমার স্বাস্থ্য খুবই ভালো — My health is very good",
+    "date_sent": "2026-08-10T11:41:45.982183",
+    "audio": "audio/9e425953bca7.mp3",
+    "example_audio": "audio/16693b161179.mp3"
+  },
+  {
+    "bangla": "আপনার স্বাস্থ্য কেমন?",
+    "phonetic": "aapnaar shastho kemon?",
+    "english": "How is your health? (polite, formal)",
+    "example_phrase": "আপনার স্বাস্থ্য কেমন, সবকিছু ঠিক আছে তো? — How is your health, everything is alright, isn't it?",
+    "date_sent": "2026-08-10T11:41:45.982183",
+    "audio": "audio/eb17d9d6063c.mp3",
+    "example_audio": "audio/2878b8f2db8f.mp3"
   }
 ]
