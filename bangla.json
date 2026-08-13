@@ -412,5 +412,23 @@
     "date_sent": "2026-08-12T11:39:18.164413",
     "audio": "audio/6020c61dc658.mp3",
     "example_audio": "audio/f681865a8c8c.mp3"
+  },
+  {
+    "bangla": "শখ",
+    "phonetic": "shokh",
+    "english": "hobby; interest; passion",
+    "example_phrase": "আমার শখ হলো বইপড়া — My hobby is reading books.",
+    "date_sent": "2026-08-13T11:39:18.168109",
+    "audio": "audio/1cd8989b598e.mp3",
+    "example_audio": "audio/4b551ffece15.mp3"
+  },
+  {
+    "bangla": "আপনার শখ কী?",
+    "phonetic": "Apnar shokh kee?",
+    "english": "What is your hobby? (formal/polite)",
+    "example_phrase": "আপনার শখ কী? — What is your hobby?",
+    "date_sent": "2026-08-13T11:39:18.168109",
+    "audio": "audio/1544946577ce.mp3",
+    "example_audio": "audio/1544946577ce.mp3"
   }
 ]
