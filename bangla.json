@@ -430,5 +430,23 @@
     "date_sent": "2026-08-13T11:39:18.168109",
     "audio": "audio/1544946577ce.mp3",
     "example_audio": "audio/1544946577ce.mp3"
+  },
+  {
+    "bangla": "শরৎ",
+    "phonetic": "sho-ROHT",
+    "english": "Autumn (the season)",
+    "example_phrase": "শরৎ আসছে, পাতা পড়ছে — Autumn is coming, the leaves are falling",
+    "date_sent": "2026-08-14T11:37:01.401595",
+    "audio": "audio/283730792e43.mp3",
+    "example_audio": "audio/f92a94bf6baf.mp3"
+  },
+  {
+    "bangla": "আমি শরৎ পছন্দ করি কারণ আবহাওয়া খুবই সুন্দর।",
+    "phonetic": "Ah-mee sho-ROHT po-CHOHN-do ko-REE kah-RON ah-bo-HO-wah KHU-bee shun-DOR",
+    "english": "I like autumn because the weather is very beautiful.",
+    "example_phrase": "আমি শরৎ পছন্দ করি কারণ আবহাওয়া খুবই সুন্দর। — I like autumn because the weather is very beautiful.",
+    "date_sent": "2026-08-14T11:37:01.401595",
+    "audio": "audio/12ffa06d0c40.mp3",
+    "example_audio": "audio/12ffa06d0c40.mp3"
   }
 ]
