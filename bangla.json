@@ -448,5 +448,23 @@
     "date_sent": "2026-08-14T11:37:01.401595",
     "audio": "audio/12ffa06d0c40.mp3",
     "example_audio": "audio/12ffa06d0c40.mp3"
+  },
+  {
+    "bangla": "প্রকৃতি",
+    "phonetic": "proh-kri-tee",
+    "english": "Nature; natural world",
+    "example_phrase": "প্রকৃতি খুবই সুন্দর। — Nature is very beautiful.",
+    "date_sent": "2026-08-15T11:10:45.009505",
+    "audio": "audio/459d338b46ed.mp3",
+    "example_audio": "audio/3c5be293c328.mp3"
+  },
+  {
+    "bangla": "আমি প্রকৃতি ভালোবাসি।",
+    "phonetic": "ah-mee proh-kri-tee bhah-lo-bah-see",
+    "english": "I love nature.",
+    "example_phrase": "আমি প্রকৃতি ভালোবাসি এবং পার্কে হাঁটতে ভালোবাসি। — I love nature and I love walking in parks.",
+    "date_sent": "2026-08-15T11:10:45.009505",
+    "audio": "audio/cb8c560919f2.mp3",
+    "example_audio": "audio/1581b2a3f40b.mp3"
   }
 ]
