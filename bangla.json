@@ -475,5 +475,23 @@
     "date_sent": "2026-08-16T11:11:31.603615",
     "audio": "audio/1a3b33421d63.mp3",
     "example_audio": "audio/6faa4cedb420.mp3"
+  },
+  {
+    "bangla": "সম্মান",
+    "phonetic": "som-mahn",
+    "english": "Respect, honor, dignity",
+    "example_phrase": "আমি তার সম্মান করি। — I respect him/her.",
+    "date_sent": "2026-08-17T11:16:51.765677",
+    "audio": "audio/184e8c59858f.mp3",
+    "example_audio": "audio/d8c0df9a75f0.mp3"
+  },
+  {
+    "bangla": "আপনার সম্মান রক্ষা করা গুরুত্বপূর্ণ",
+    "phonetic": "ah-puh-nahr som-mahn rok-shah kuh-rah gu-roo-tuh-purn",
+    "english": "It is important to protect/uphold one's honor",
+    "example_phrase": "সততা আপনার সম্মান রক্ষা করে। — Honesty protects your honor.",
+    "date_sent": "2026-08-17T11:16:51.765677",
+    "audio": "audio/00f42d18305b.mp3",
+    "example_audio": "audio/60ac9b06dadf.mp3"
   }
 ]
