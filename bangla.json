@@ -493,5 +493,14 @@
     "date_sent": "2026-08-17T11:16:51.765677",
     "audio": "audio/00f42d18305b.mp3",
     "example_audio": "audio/60ac9b06dadf.mp3"
+  },
+  {
+    "bangla": "আমি আপনার সাথে থাকতে ভালোবাসি।",
+    "phonetic": "Ah-mee ah-puh-nar sah-thuh thah-kuh-tay vah-lo-bah-shee.",
+    "english": "I love being with you. (I love to stay with you.)",
+    "example_phrase": "প্রতিদিন আমি আপনার সাথে থাকতে ভালোবাসি। — Every day, I love being with you.",
+    "date_sent": "2026-08-19T11:16:12.203288",
+    "audio": "audio/7f2fdcb0ca7b.mp3",
+    "example_audio": "audio/db0f04362180.mp3"
   }
 ]
