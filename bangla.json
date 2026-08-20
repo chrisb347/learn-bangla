@@ -502,5 +502,14 @@
     "date_sent": "2026-08-19T11:16:12.203288",
     "audio": "audio/7f2fdcb0ca7b.mp3",
     "example_audio": "audio/db0f04362180.mp3"
+  },
+  {
+    "bangla": "মানুষ",
+    "phonetic": "mah-noosh",
+    "english": "Person / People",
+    "example_phrase": "আমি একজন ভালো মানুষ হতে চাই। — I want to be a good person.",
+    "date_sent": "2026-08-20T11:17:47.697420",
+    "audio": "audio/82f6cac221fa.mp3",
+    "example_audio": "audio/44007b52d27a.mp3"
   }
 ]
