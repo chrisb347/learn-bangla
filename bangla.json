@@ -511,5 +511,23 @@
     "date_sent": "2026-08-20T11:17:47.697420",
     "audio": "audio/82f6cac221fa.mp3",
     "example_audio": "audio/44007b52d27a.mp3"
+  },
+  {
+    "bangla": "বন্ধু",
+    "phonetic": "bon-dhu",
+    "english": "Friend",
+    "example_phrase": "আমার বন্ধু খুবই ভালো। — My friend is very good.",
+    "date_sent": "2026-08-22T11:11:38.946366",
+    "audio": "audio/b10328eff15d.mp3",
+    "example_audio": "audio/59767ac0a781.mp3"
+  },
+  {
+    "bangla": "আপনার সাথে থাকা আমার জন্য আনন্দের",
+    "phonetic": "ah-pnar shah-the tha-ka amar jon-no ahn-dor er",
+    "english": "Being with you brings me joy",
+    "example_phrase": "আপনার সাথে থাকা আমার জন্য আনন্দের। — Being with you brings me joy.",
+    "date_sent": "2026-08-22T11:11:38.946366",
+    "audio": "audio/61eea7e10471.mp3",
+    "example_audio": "audio/6a9bf201e1d5.mp3"
   }
 ]
