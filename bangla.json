@@ -529,5 +529,23 @@
     "date_sent": "2026-08-22T11:11:38.946366",
     "audio": "audio/61eea7e10471.mp3",
     "example_audio": "audio/6a9bf201e1d5.mp3"
+  },
+  {
+    "bangla": "আশীর্বাদ",
+    "phonetic": "ah-sheer-bahd",
+    "english": "Blessing",
+    "example_phrase": "আপনার আশীর্বাদ আমাদের সাথে আছে — Your blessing is with us.",
+    "date_sent": "2026-08-24T11:18:28.177715",
+    "audio": "audio/df7c84a4a79e.mp3",
+    "example_audio": "audio/e53615dae741.mp3"
+  },
+  {
+    "bangla": "আপনার সুস্বাস্থ্য কামনা করি",
+    "phonetic": "ah-pah-nar sus-hash-thyo kah-muh-nah kuh-ree",
+    "english": "I wish you good health",
+    "example_phrase": "আপনার সুস্বাস্থ্য কামনা করি, আপনি সবসময় সুখী থাকুন — I wish you good health; may you always be happy.",
+    "date_sent": "2026-08-24T11:18:28.177715",
+    "audio": "audio/ceaf5169b1af.mp3",
+    "example_audio": "audio/82b378d7b106.mp3"
   }
 ]
