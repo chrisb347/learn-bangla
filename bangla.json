@@ -547,5 +547,14 @@
     "date_sent": "2026-08-24T11:18:28.177715",
     "audio": "audio/ceaf5169b1af.mp3",
     "example_audio": "audio/82b378d7b106.mp3"
+  },
+  {
+    "bangla": "বই",
+    "phonetic": "boy",
+    "english": "Book",
+    "example_phrase": "আমি একটি বই পড়ছি। — I am reading a book.",
+    "date_sent": "2026-08-25T11:17:43.375943",
+    "audio": "audio/b446bdcfa0d1.mp3",
+    "example_audio": "audio/3462076acfd8.mp3"
   }
 ]
