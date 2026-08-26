@@ -556,5 +556,14 @@
     "date_sent": "2026-08-25T11:17:43.375943",
     "audio": "audio/b446bdcfa0d1.mp3",
     "example_audio": "audio/3462076acfd8.mp3"
+  },
+  {
+    "bangla": "সন্ধ্যা",
+    "phonetic": "sohn-dhah",
+    "english": "Evening",
+    "example_phrase": "সন্ধ্যার আলো খুবই সুন্দর। — The evening light is very beautiful.",
+    "date_sent": "2026-08-26T11:20:21.875317",
+    "audio": "audio/26a34f4464c5.mp3",
+    "example_audio": "audio/5c6170a27955.mp3"
   }
 ]
