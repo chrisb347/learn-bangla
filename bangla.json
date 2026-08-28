@@ -574,5 +574,23 @@
     "date_sent": "2026-08-27T20:51:50.516345",
     "audio": "audio/8624617fb1e9.mp3",
     "example_audio": "audio/1c807b924056.mp3"
+  },
+  {
+    "bangla": "ঋতু",
+    "phonetic": "ri-tu",
+    "english": "Season",
+    "example_phrase": "আমি শরৎ ঋতু পছন্দ করি। — I like the autumn season.",
+    "date_sent": "2026-08-28T21:17:21.658954",
+    "audio": "audio/a4854b0530db.mp3",
+    "example_audio": "audio/c255cd5d4a85.mp3"
+  },
+  {
+    "bangla": "আপনার কীভাবে চলছে?",
+    "phonetic": "ah-puh-nar kee-bhah-beh chol-shay",
+    "english": "How are things going for you? (polite, informal)",
+    "example_phrase": "আপনার কীভাবে চলছে? খুবই ভালো চলছে, ধন্যবাদ। — How are things going for you? Things are going very well, thank you.",
+    "date_sent": "2026-08-28T21:17:21.658954",
+    "audio": "audio/8e1f61b5e20f.mp3",
+    "example_audio": "audio/8edd09819430.mp3"
   }
 ]
