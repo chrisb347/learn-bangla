@@ -601,5 +601,23 @@
     "date_sent": "2026-08-30T15:07:30.864784",
     "audio": "audio/9906e098d0b0.mp3",
     "example_audio": "audio/16b64b9f8db0.mp3"
+  },
+  {
+    "bangla": "পাতা",
+    "phonetic": "pat-ta",
+    "english": "Leaf or page",
+    "example_phrase": "গাছের পাতা খুবই সবুজ। — The tree's leaves are very green.",
+    "date_sent": "2026-08-31T17:45:56.551461",
+    "audio": "audio/0c340b7d4014.mp3",
+    "example_audio": "audio/52f9c81d6e85.mp3"
+  },
+  {
+    "bangla": "শরতের দিনগুলি খুবই সুন্দর।",
+    "phonetic": "Sho-ro-ter din-gu-li khu-boi shun-dor",
+    "english": "The autumn days are very beautiful.",
+    "example_phrase": "শরতের দিনগুলি খুবই সুন্দর, তাই আমি এই মৌসুমি ভালোবাসি। — The autumn days are very beautiful, so I love this season.",
+    "date_sent": "2026-08-31T17:45:56.551461",
+    "audio": "audio/dbadc6b50d3e.mp3",
+    "example_audio": "audio/c51cb21273a3.mp3"
   }
 ]
