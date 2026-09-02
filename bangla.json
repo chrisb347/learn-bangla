@@ -619,5 +619,14 @@
     "date_sent": "2026-08-31T17:45:56.551461",
     "audio": "audio/dbadc6b50d3e.mp3",
     "example_audio": "audio/c51cb21273a3.mp3"
+  },
+  {
+    "bangla": "আমি",
+    "phonetic": "ah-mee",
+    "english": "I (first person singular pronoun)",
+    "example_phrase": "আমি শরতকাল পছন্দ করি। — I like autumn.",
+    "date_sent": "2026-09-02T14:48:48.480583",
+    "audio": "audio/af211db8f0c1.mp3",
+    "example_audio": "audio/842a78e20d9a.mp3"
   }
 ]
